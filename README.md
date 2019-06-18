@@ -1,5 +1,4 @@
 # Contact-Form
-<!DOCTYPE html>
 <html>
 <head>
 <title> page title </title>
